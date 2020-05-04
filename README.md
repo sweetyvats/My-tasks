@@ -1,2 +1,0 @@
-# My-tasks
-Coding tasks

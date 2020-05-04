@@ -1,0 +1,14 @@
+# My-tasks
+Coding tasks
+#Task 1 :-
+
+pi=3.14
+radius=float(input("The radius of the circle is : "))
+area=pi*radius*radius
+print("The area of the circle with radius 1.1 is: ",area)
+
+#Task 2:_
+
+filename=input("Input the filename: ")
+py="python"
+print("the extension of the file is: "+py)
